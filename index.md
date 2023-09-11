@@ -14,3 +14,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Ahora hacemos una lista
+
+- [ ] Casilla 1
+- [ ] Casilla 2
+- [ ] Casilla 3
